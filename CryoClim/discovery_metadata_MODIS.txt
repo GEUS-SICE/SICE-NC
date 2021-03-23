@@ -1,0 +1,27 @@
+name	attribute
+id	MOD10A1_gapless_SZA_corrected_v2020a
+naming_authority	geus.dk
+title	MODIS MOD10A1 data after Box et al. (2017), updated through 2019 end of melt season
+summary	The MODIS MOD10A1 v6 after Box et al. (2017) is gapless by initializing the year using May average then steping through days any cloud free pixels are updated, removes a dark bias in the south and a bright bias in the north, the bias adjustment is under 0.05 in all cases. See Box, J.E., D. van As, K. Steffen, 2017. Greenland, Canadian and Icelandic land ice albedo grids (2000-2016), Geological Survey of Denmark and Greenland Bulletin, 38, 53-56. https://eng.geus.dk/media/9338/nr38_p53-56.pdf
+keywords	Greenland ice sheet, albedo, MODIS, MOD10A1
+geospatial_lat_min	TBD
+geospatial_lat_max	TBD
+geospatial_lon_min	TBD
+geospatial_lon_max	TBD
+time_coverage_start	2000-03-01
+time_coverage_end	2019-10-25
+Conventions	BLANK
+history	BLANK
+source	BLANK
+processing_level	BLANK
+date_created	2019-11-22
+creator_type	group
+creator_institution	Geological Survey of Denmark and Greenland (GEUS)
+creator_name	Jason Box, Adrien Wehrlé
+creator_email	jeb@geus.dk
+creator_url	http://snow.geus.dk/
+institution	Geological Survey of Denmark and Greenland (GEUS)
+publisher_name	BLANK
+publisher_email	jeb@geus.dk
+publisher_url	http://snow.geus.dk/
+project	ESA PRODEX project: “An operational service of new Sentinel-3 algorithms for climate monitoring of the Greenland Cryosphere within the CryoClim network”
